@@ -3,3 +3,15 @@
 "xx"
 "xx"
 "xx"
+@powershell -Command "Get-Date" 
+${@powershell -Command "Get-Date"} 
+'${@powershell -Command "Get-Date"}' 
+currentDate 
+!currentDate! 
+!currentTime!
+!currentDate!
+%set currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年%date:~5,2 
+%set currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年%date:~5,2 
+%set currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年%date:~5,2 
+%set currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年08月27日 作者：瀚宇灬星辰 https://www.bilibili.com/read/cv22327758/ 出处：bilibiliset currentDate=2024年%date:~5,2 
+16:46:33.65 
